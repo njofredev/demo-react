@@ -33,3 +33,7 @@ Puedes consultar el repositorio de Next.js en GitHub - ¡tus comentarios y contr
 La forma más fácil de implementar tu aplicación Next.js es usar la Plataforma Vercel de los creadores de Next.js.
 
 Consulta nuestra documentación de implementación de Next.js para obtener más detalles.
+
+## Licencia
+
+Este proyecto está licenciado bajo la licencia MIT.
